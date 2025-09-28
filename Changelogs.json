@@ -1,6 +1,27 @@
 {
   "changelogs": [
     {
+      "version": "1.0.1",
+      "categories": [
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "Added Jevil",
+            "Added Corruption"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "Changed Starwalker's rarity to Mythic",
+            "Added Modifiers to PVP",
+            "Modifier Rewards are now in %",
+            "New Update Log System"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.0.0",
       "categories": [
         {
