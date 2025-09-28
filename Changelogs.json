@@ -1,34 +1,41 @@
 {
   "changelogs": [
     {
-      "version": "1.2.0",
+      "version": "1.0.0",
       "categories": [
         {
-          "title": "TEST",
+          "title": "GENERAL",
           "changes": [
-            "Added Hammer of Justice [4K]",
+            "Added Modifiers",
+            "Added Note Skins"
+          ]
+        },
+        {
+          "title": "SONGS",
+          "changes": [
             "Added Hip Shop",
             "Added Last Goodbye",
             "Added Ruder Buster",
             "Added Ruder Buster [4K]",
-            "Added Field of Hopes and Dreams",
+            "Added Hammer of Justice [4K]",
+            "Added Field of Hopes and Dreams X",
             "Added CORE X"
           ]
         },
         {
-          "title": "TEST",
+          "title": "NOTE SKINS",
           "changes": [
             "Added Default",
-            "Added FNF Arrows",
-            "Added Milk",
-            "Added Baldi",
             "Added Circle",
             "Added Square",
             "Added Fun Gang",
             "Added Windows Error",
             "Added UwU",
             "Added ASGORE",
-            "Added Goopy"
+            "Added Togore",
+            "Added FNF Arrows",
+            "Added Milk",
+            "Added Baldi"
           ]
         },
         {
@@ -37,57 +44,135 @@
             "Added Confusion",
             "Added Disappearance",
             "Added Duplication",
-            "And a few more"
+            "Added Spin",
+            "Added Reverse",
+            "Added Movement",
+            "Added Jitter",
+            "Added Spamton",
+            "Added Tiny",
+            "Added Elephant"
           ]
         },
         {
           "title": "ANIMATIONS",
           "changes": [
-            "Added Baldi",
-            "Added Zombie"
+            "Added Zombie",
+            "Added Excited",
+            "Added Rat Dance",
+            "Added Spin and Sing"
+          ]
+        },
+        {
+          "title": "MISCELLANEOUS",
+          "changes": [
+            "Added new Quests",
+            "Increased reward from each quest by 30%",
+            "Renamed \"Matchmaking\" to \"Duels\"",
+            "Whooped herobrine so he finally spawns"
           ]
         }
       ]
     },
     {
-      "version": "1.1.0",
+      "version": "0.9.0",
       "categories": [
+        {
+          "title": "GENERAL",
+          "changes": [
+            "Updated the map :3",
+            "Added 4K Note Speed"
+          ]
+        },
         {
           "title": "SONGS",
           "changes": [
-            "Added Megalovania",
-            "Added Spider Dance",
-            "Added Battle Against a True Hero"
+            "Added Fallen Down",
+            "Added Attack of the Killer Queen",
+            "Added Finale",
+            "Added Amalgam",
+            "Added Another Day in Hometown",
+            "Added Chaos King",
+            "Added Dump",
+            "Added The Third Sanctuary [4K]",
+            "Added Dump [4K]",
+            "Added Field of Hopes and Dreams [4K]",
+            "Added Megalo Strike Back [4K]",
+            "Added Battle Against A True Hero",
+            "Added Ghost Fight",
+            "Added Don't Forget",
+            "Added Feature Presentation",
+            "Added New Big Shot Chart",
+            "Added Sandy Board [4K]",
+            "Added It's Pronounced Rules",
+            "Added A DARK ZONE",
+            "Added GUARDIAN"
           ]
         },
         {
-          "title": "NOTE SKINS",
+          "title": "CHANGES",
           "changes": [
-            "Added Undertale Theme",
-            "Added Classic",
-            "Added Neon"
-          ]
-        },
-        {
-          "title": "BUG FIXES",
-          "changes": [
-            "Fixed audio sync issues",
-            "Fixed note registration problems",
-            "Fixed UI scaling on different screen sizes"
+            "Temporarily reverted Default, Ralsei, and Susie animation",
+            "Changed price of winstreak revival (325 -> 1000)",
+            "Quest Rewards increased"
           ]
         }
       ]
     },
     {
-      "version": "1.0.0",
+      "version": "0.8.0",
       "categories": [
         {
-          "title": "TEST",
+          "title": "FEATURES",
           "changes": [
-            "TEST",
-            "Added score system",
-            "Added basic UI",
-            "Added tutorial mode"
+            "Added Upscroll 🔥🔥",
+            "Added Practice Mode",
+            "Added Hide Combo",
+            "Added Medium (4 keys)"
+          ]
+        },
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added Air Waves (2 keys)",
+            "Added Rude Buster (2/4 keys)",
+            "Added Big Shot (4 keys)",
+            "Added Black Knife (4 keys)"
+          ]
+        },
+        {
+          "title": "CHANGES",
+          "changes": [
+            "Changed how hold notes work",
+            "Fixed an issue with herobrine jumpscare spamming you"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.7.0",
+      "categories": [
+        {
+          "title": "FEATURES",
+          "changes": [
+            "Added Matchmaking",
+            "Added 4 Keys",
+            "Recover Winstreak",
+            "Added Song Offsets"
+          ]
+        },
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added Air Waves",
+            "Added Dark Place",
+            "Added Retribution"
+          ]
+        },
+        {
+          "title": "CHANGES",
+          "changes": [
+            "Fixed some bugs",
+            "Reworked Play System"
           ]
         }
       ]
