@@ -1,1 +1,96 @@
-
+{
+  "changelogs": [
+    {
+      "version": "1.2.0",
+      "categories": [
+        {
+          "title": "TEST",
+          "changes": [
+            "Added Hammer of Justice [4K]",
+            "Added Hip Shop",
+            "Added Last Goodbye",
+            "Added Ruder Buster",
+            "Added Ruder Buster [4K]",
+            "Added Field of Hopes and Dreams",
+            "Added CORE X"
+          ]
+        },
+        {
+          "title": "TEST",
+          "changes": [
+            "Added Default",
+            "Added FNF Arrows",
+            "Added Milk",
+            "Added Baldi",
+            "Added Circle",
+            "Added Square",
+            "Added Fun Gang",
+            "Added Windows Error",
+            "Added UwU",
+            "Added ASGORE",
+            "Added Goopy"
+          ]
+        },
+        {
+          "title": "MODIFIERS",
+          "changes": [
+            "Added Confusion",
+            "Added Disappearance",
+            "Added Duplication",
+            "And a few more"
+          ]
+        },
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "Added Baldi",
+            "Added Zombie"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added Megalovania",
+            "Added Spider Dance",
+            "Added Battle Against a True Hero"
+          ]
+        },
+        {
+          "title": "NOTE SKINS",
+          "changes": [
+            "Added Undertale Theme",
+            "Added Classic",
+            "Added Neon"
+          ]
+        },
+        {
+          "title": "BUG FIXES",
+          "changes": [
+            "Fixed audio sync issues",
+            "Fixed note registration problems",
+            "Fixed UI scaling on different screen sizes"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "categories": [
+        {
+          "title": "TEST",
+          "changes": [
+            "TEST",
+            "Added score system",
+            "Added basic UI",
+            "Added tutorial mode"
+          ]
+        }
+      ]
+    }
+  ]
+}
