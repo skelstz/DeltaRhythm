@@ -1,6 +1,29 @@
 {
   "changelogs": [
     {
+      "version": "1.0.1",
+      "categories": [
+        {
+          "title": "TEST",
+          "changes": [
+            "Fixed critical memory leak in note processing",
+            "Improved audio synchronization accuracy by 15%",
+            "Added experimental beta testing framework",
+            "Optimized rendering performance for low-end devices"
+          ]
+        },
+        {
+          "title": "TEST",
+          "changes": [
+            "Enhanced multiplayer connection stability",
+            "Added debug mode for developers",
+            "Implemented new crash reporting system",
+            "Updated localization files for better translations"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.0.0",
       "categories": [
         {
@@ -68,7 +91,7 @@
             "Added new Quests",
             "Increased reward from each quest by 30%",
             "Renamed \"Matchmaking\" to \"Duels\"",
-            "Whooped herobrine so he finally spawns"
+            "Fixed herobrine so he finally spawns"
           ]
         }
       ]
