@@ -1,6 +1,51 @@
 {
   "changelogs": [
     {
+      "version": "1.0.2",
+      "categories": [
+        {
+          "title": "HALLOWEEN",
+          "changes": [
+            "Halloween Themed Map",
+            "Added Halloween Modifier (Temporary)",
+            "Added Headless Animation",
+            "Added Pumpkin Pie Animation",
+            "Added Special Pumpkin Animation!",
+            "Added Scary Skeletons Song",
+            "New Lobby Music"
+          ]
+        },
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "Added Mystery Guy",
+            "New Default (Kris) Animation"
+          ]
+        },
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added SPAWN",
+            "Added SPAWN X"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "Added some new badges",
+            "Added Spamton eating fries to the Spamton modifier",
+            "the person in quests is now rich"
+          ]
+        },
+        {
+          "title": "NOTE",
+          "changes": [
+            "EVERYTHING RELATED TO HALLOWEEN IS EXCLUSIVE"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.0.1",
       "categories": [
         {
