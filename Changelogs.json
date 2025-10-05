@@ -1,6 +1,34 @@
 {
   "changelogs": [
     {
+      "version": "1.0.3",
+      "categories": [
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "New Susie Animation",
+            "New Ralsei Animation",
+            "Added Master Player",
+            "Added Retry Now",
+            "Added Triple",
+            "Added Pibble",
+            "Added Gorilla",
+            "Added Kit",
+            "Added little tikes",
+            "Added Beg",
+            "Added Freddy"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "new feedback system",
+            "Added Animation User ID (for the second character in animations)"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.0.2",
       "categories": [
         {
@@ -210,35 +238,6 @@
           "changes": [
             "Changed how hold notes work",
             "Fixed an issue with herobrine jumpscare spamming you"
-          ]
-        }
-      ]
-    },
-    {
-      "version": "0.7.0",
-      "categories": [
-        {
-          "title": "FEATURES",
-          "changes": [
-            "Added Matchmaking",
-            "Added 4 Keys",
-            "Recover Winstreak",
-            "Added Song Offsets"
-          ]
-        },
-        {
-          "title": "SONGS",
-          "changes": [
-            "Added Air Waves",
-            "Added Dark Place",
-            "Added Retribution"
-          ]
-        },
-        {
-          "title": "CHANGES",
-          "changes": [
-            "Fixed some bugs",
-            "Reworked Play System"
           ]
         }
       ]
