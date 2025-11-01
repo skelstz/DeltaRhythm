@@ -1,6 +1,60 @@
 {
   "changelogs": [
     {
+      "version": "1.1.0",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added MEGALOVANIA CAMELLIA",
+            "Added RUDE BUSTER CAMELLIA",
+            "Added Bonetrousle",
+            "Added Protocol",
+            "Added Mad Mew Mew",
+            "Added NOW'S YOUR CHANCE TO BE A",
+            "Added NOW'S YOUR CHANCE TO BE A X",
+            "Added Catswing",
+            "Added The Ol' Jitterbug",
+            "Added Chaos King X",
+            "Added THE WORLD REVOLVING B",
+            "Added Metal Crusher B",
+            "Added Death by Glamour B",
+            "Added Hammer Of Justice B",
+            "Added Rude Buster B",
+            "Added MEGALOVANIA (short version)",
+            "Added Battle Against a True Hero B"
+          ]
+        },
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "Added Gerson",
+            "Added Tenna",
+            "Added Angel",
+            "Added Duck",
+            "Added Sans"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "New song selection screen",
+            "Removed the smooth transitions between animations (needs feedback)",
+            "B Songs - basically easier versions",
+            "Revamped Map",
+            "Tutorial",
+            "Halloween animations are now exclusive"
+          ]
+        },
+        {
+          "title": "NOTESKINS",
+          "changes": [
+            "Added Sans"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.0.3",
       "categories": [
         {
@@ -208,36 +262,6 @@
             "Temporarily reverted Default, Ralsei, and Susie animation",
             "Changed price of winstreak revival (325 -> 1000)",
             "Quest Rewards increased"
-          ]
-        }
-      ]
-    },
-    {
-      "version": "0.8.0",
-      "categories": [
-        {
-          "title": "FEATURES",
-          "changes": [
-            "Added Upscroll 🔥🔥",
-            "Added Practice Mode",
-            "Added Hide Combo",
-            "Added Medium (4 keys)"
-          ]
-        },
-        {
-          "title": "SONGS",
-          "changes": [
-            "Added Air Waves (2 keys)",
-            "Added Rude Buster (2/4 keys)",
-            "Added Big Shot (4 keys)",
-            "Added Black Knife (4 keys)"
-          ]
-        },
-        {
-          "title": "CHANGES",
-          "changes": [
-            "Changed how hold notes work",
-            "Fixed an issue with herobrine jumpscare spamming you"
           ]
         }
       ]
