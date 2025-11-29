@@ -1,6 +1,47 @@
 {
   "changelogs": [
     {
+      "version": "1.2.0",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "New chart for Raining Tacos (thanks ballerman93)",
+            "Added My bread was burn into a crisp 2k and 4k",
+            "Added ASGORE X"
+          ]
+        },
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "Added Winstreak animation (Top 10/50)",
+            "Added Knight"
+          ]
+        },
+        {
+          "title": "MAPS",
+          "changes": [
+            "Added Donator",
+            "Added John Tron",
+            "Added Baseplate",
+            "Added Lightners Live",
+            "Added Old Map"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "New map for christmas",
+            "Added GIFTING",
+            "Fixed holdnote offset",
+            "Winstreak ChatTags now go till top 50",
+            "Custom Noteskins",
+            "Not much got added this update since we are kinda busy on other projects sorry!"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.1.0",
       "categories": [
         {
@@ -217,51 +258,6 @@
             "Increased reward from each quest by 30%",
             "Renamed \"Matchmaking\" to \"Duels\"",
             "Fixed herobrine so he finally spawns"
-          ]
-        }
-      ]
-    },
-    {
-      "version": "0.9.0",
-      "categories": [
-        {
-          "title": "GENERAL",
-          "changes": [
-            "Updated the map :3",
-            "Added 4K Note Speed"
-          ]
-        },
-        {
-          "title": "SONGS",
-          "changes": [
-            "Added Fallen Down",
-            "Added Attack of the Killer Queen",
-            "Added Finale",
-            "Added Amalgam",
-            "Added Another Day in Hometown",
-            "Added Chaos King",
-            "Added Dump",
-            "Added The Third Sanctuary [4K]",
-            "Added Dump [4K]",
-            "Added Field of Hopes and Dreams [4K]",
-            "Added Megalo Strike Back [4K]",
-            "Added Battle Against A True Hero",
-            "Added Ghost Fight",
-            "Added Don't Forget",
-            "Added Feature Presentation",
-            "Added New Big Shot Chart",
-            "Added Sandy Board [4K]",
-            "Added It's Pronounced Rules",
-            "Added A DARK ZONE",
-            "Added GUARDIAN"
-          ]
-        },
-        {
-          "title": "CHANGES",
-          "changes": [
-            "Temporarily reverted Default, Ralsei, and Susie animation",
-            "Changed price of winstreak revival (325 -> 1000)",
-            "Quest Rewards increased"
           ]
         }
       ]
