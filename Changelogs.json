@@ -1,10 +1,7 @@
 {
   "changelogs": [
     {
-      "version": "1.2.0",
-      "categories": [
-        {
-      "version": "1.2.y",
+      "version": "1.2.1",
       "categories": [
         {
           "title": "SONGS",
@@ -27,6 +24,9 @@
         }
       ]
     },
+    {
+      "version": "1.2.0",
+      "categories": [
         {
           "title": "SONGS",
           "changes": [
