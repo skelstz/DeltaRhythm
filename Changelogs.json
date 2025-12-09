@@ -4,6 +4,30 @@
       "version": "1.2.0",
       "categories": [
         {
+      "version": "1.2.y",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added From Now On",
+            "Added DANZA",
+            "Added Remedy",
+            "Added Forlorn",
+            "Added Apprehension [4K]",
+            "Added Apprehension",
+            "Added Showdown!"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "Note speed is now in Gameplay",
+            "ranks fixed"
+          ]
+        }
+      ]
+    },
+        {
           "title": "SONGS",
           "changes": [
             "New chart for Raining Tacos (thanks ballerman93)",
