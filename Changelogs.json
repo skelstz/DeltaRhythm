@@ -1,5 +1,49 @@
 {
   "changelogs": [
+    {
+      "version": "1.3.0",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "Chapter 5 Songs.. I dont want to spoiler. 6 new ones.",
+            "- POWER OF SPAMTON",
+            "- Friend Inside Me -Last Rodeo Mix-",
+            "- FORGET ME NOT"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "- New Game System",
+            "^ Please send feedback",
+            "removed like 90% of all modifiers since most of them broke 3:",
+            "added a setting that shows where to press on mobile"
+          ]
+        },
+        {
+          "title": "REVAMPED UI UPDATE",
+          "changes": [
+            "- Applies to Play, Shop, Settings as of now",
+            "- Everything else gets updated soon",
+            "- Please send feedback what to change. I know it isnt perfect"
+          ]
+        },
+        {
+          "title": "ANIMATIONS",
+          "changes": [
+            "- Don Quixote",
+            "- Luara"
+          ]
+        },
+        {
+          "title": "NOTESKINS",
+          "changes": [
+            "Hopefully fixed fungang skin... might break again LOL"
+          ]
+        }
+      ]
+    },
      {
       "version": "1.2.2",
       "categories": [
