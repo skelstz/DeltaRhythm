@@ -1,5 +1,26 @@
 {
   "changelogs": [
+     {
+      "version": "1.2.2",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "Added vs. Susie [4K]",
+            "Added vs. Susie",
+            "Added vs. Susie B",
+            "Updated Forlorn"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "removed xmas lobby and music",
+            "yeah no big update sorry. we're busy doing different stuff"
+          ]
+        }
+      ]
+    },
     {
       "version": "1.2.1",
       "categories": [
