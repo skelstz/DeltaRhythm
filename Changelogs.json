@@ -1,6 +1,43 @@
 {
   "changelogs": [
     {
+      "version": "1.3.1",
+      "categories": [
+        {
+          "title": "SONGS",
+          "changes": [
+            "- Running Sky",
+            "- Petal Dance",
+            "- Hopes and Dreams",
+            "- Who might you be",
+            "- Your Dad's Best Friend",
+            "- Sunset of Seven Suns",
+            "- Fields of Hopes and Dreams"
+          ]
+        },
+        {
+          "title": "MISC.",
+          "changes": [
+            "- Duels new Map",
+            "- VIP",
+            "- Bugfixes",
+            "- 4 New Settings",
+            "-> Enable Long Note Hit Color",
+            "-> Invert Button Color",
+            "-> Lane Height",
+            "-> Changed UI Size to Lane Width"
+          ]
+        },
+        {
+          "title": "QUESTS",
+          "changes": [
+            "also got a cool cutscene",
+            "Remade Quests system"
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.3.0",
       "categories": [
         {
@@ -44,7 +81,7 @@
         }
       ]
     },
-     {
+    {
       "version": "1.2.2",
       "categories": [
         {
